@@ -1,0 +1,12 @@
+C:\Users\Misha\source\repos\pr8\JsonLib\bin\Debug\net8.0\JsonLib.deps.json
+C:\Users\Misha\source\repos\pr8\JsonLib\bin\Debug\net8.0\JsonLib.dll
+C:\Users\Misha\source\repos\pr8\JsonLib\bin\Debug\net8.0\JsonLib.pdb
+C:\Users\Misha\source\repos\pr8\JsonLib\obj\Debug\net8.0\JsonLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Misha\source\repos\pr8\JsonLib\obj\Debug\net8.0\JsonLib.AssemblyInfoInputs.cache
+C:\Users\Misha\source\repos\pr8\JsonLib\obj\Debug\net8.0\JsonLib.AssemblyInfo.cs
+C:\Users\Misha\source\repos\pr8\JsonLib\obj\Debug\net8.0\JsonLib.csproj.CoreCompileInputs.cache
+C:\Users\Misha\source\repos\pr8\JsonLib\obj\Debug\net8.0\JsonLib.sourcelink.json
+C:\Users\Misha\source\repos\pr8\JsonLib\obj\Debug\net8.0\JsonLib.dll
+C:\Users\Misha\source\repos\pr8\JsonLib\obj\Debug\net8.0\refint\JsonLib.dll
+C:\Users\Misha\source\repos\pr8\JsonLib\obj\Debug\net8.0\JsonLib.pdb
+C:\Users\Misha\source\repos\pr8\JsonLib\obj\Debug\net8.0\ref\JsonLib.dll
